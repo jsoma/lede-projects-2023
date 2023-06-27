@@ -60,6 +60,8 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#jellomoatgithubio"><img src="screenshots/jellomoat.github.io/yogurts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jellomoat.github.io</a></td>
 <td><a href="#tejalwakchouregithubio"><img src="screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tejalwakchoure.github.io</a></td>
 <td><a href="#yikematsgithubio"><img src="screenshots/yikemats.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yikemats.github.io</a></td>
+<td><a href="#karinashedgithubio"><img src="screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>karinashed.github.io</a></td>
+</tr><tr>
 </tr></table>
 
 
@@ -839,7 +841,7 @@ No issues found! 🎉
 
 **https://sho-miyasaka.github.io/project-01/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 
 
@@ -889,4 +891,20 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `ElonJet.jpg` missing `alt` tag
+
+
+
+## karinashed.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[NYC Taxi Riders Are Still Decent Tippers](https://karinashed.github.io/nyc-yellow-taxi-rides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-mobile-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-mobile-full.jpg)|[![medium](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-full.jpg)|[![wide](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-wide-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://karinashed.github.io/nyc-yellow-taxi-rides/**
+
+* Add a link to your project's GitHub repo, so people can review your code
 
