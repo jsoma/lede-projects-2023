@@ -20,7 +20,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#efkodongithubio"><img src="screenshots/efkodon.github.io/va-internet_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>efkodon.github.io</a></td>
 <td><a href="#hannaakanggithubio"><img src="screenshots/hannaakang.github.io/riot-deaths_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hannaakang.github.io</a></td>
 <td><a href="#federicodtgithubio"><img src="screenshots/federicodt.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>federicodt.github.io</a></td>
-<td>gavagliano.github.io request failed</td>
+<td><a href="#gavaglianogithubio"><img src="screenshots/gavagliano.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gavagliano.github.io</a></td>
 </tr><tr>
 <td><a href="#juditecyprestecom"><img src="screenshots/juditecypreste.com/portfolio-lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juditecypreste.com</a></td>
 <td><a href="#idontknowhowcomputersworkgithubio"><img src="screenshots/idontknowhowcomputerswork.github.io/PROJECTS_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>idontknowhowcomputerswork.github.io</a></td>
@@ -341,16 +341,16 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://gavagliano.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Giana Avagliano's Website](https://gavagliano.github.io/Project-1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/gavagliano.github.io/Project-1_index.html-mobile-thumb.jpg)](screenshots/gavagliano.github.io/Project-1_index.html-mobile-full.jpg)|[![medium](screenshots/gavagliano.github.io/Project-1_index.html-medium-thumb.jpg)](screenshots/gavagliano.github.io/Project-1_index.html-medium-full.jpg)|[![wide](screenshots/gavagliano.github.io/Project-1_index.html-wide-thumb.jpg)](screenshots/gavagliano.github.io/Project-1_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://gavagliano.github.io/**
+**https://gavagliano.github.io/Project-1/**
 
-* **Could not access the page** - if you moved it, let me know!
+* Add a link to your project's GitHub repo, so people can review your code
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
