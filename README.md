@@ -243,7 +243,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Early-career community college teachers in the East Bay pay nearly half of their income to rent where they teach](https://davidmhorowitz.github.io/HTML-youtube-folder/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-mobile-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-mobile-full.jpg)|[![medium](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-medium-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-medium-full.jpg)|[![wide](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-wide-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-wide-full.jpg)|
+|[New community college teachers in the East Bay pay nearly half of their income to rent where they teach](https://davidmhorowitz.github.io/HTML-youtube-folder/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-mobile-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-mobile-full.jpg)|[![medium](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-medium-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-medium-full.jpg)|[![wide](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-wide-thumb.jpg)](screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
