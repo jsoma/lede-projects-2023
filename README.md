@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#anaeazpuruagithubio"><img src="screenshots/anaeazpurua.github.io/project_one_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anaeazpurua.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
-<td><a href="#florinasutantogithubio"><img src="screenshots/florinasutanto.github.io/buffy-podcasts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>florinasutanto.github.io</a></td>
+<td>florinasutanto.github.io request failed</td>
 <td><a href="#coralmurphy3githubio"><img src="screenshots/coralmurphy3.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>coralmurphy3.github.io</a></td>
 </tr><tr>
 <td><a href="#cristinadelmargithubio"><img src="screenshots/cristinadelmar.github.io/parks-recovery-puerto-rico_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>cristinadelmar.github.io</a></td>
@@ -193,13 +193,15 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Buffy Podcasts](https://florinasutanto.github.io/buffy-podcasts/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-mobile-thumb.jpg)](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-mobile-full.jpg)|[![medium](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-medium-thumb.jpg)](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-medium-full.jpg)|[![wide](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-wide-thumb.jpg)](screenshots/florinasutanto.github.io/buffy-podcasts_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://florinasutanto.github.io/buffy-podcasts/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://florinasutanto.github.io/buffy-podcasts/**
 
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
