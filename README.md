@@ -2,14 +2,14 @@
 
 Quick checks to make sure our pages are looking their best.
 
-<table><tr><td>aishyv.github.io request failed</td>
+<table><tr><td><a href="#aishyvgithubio"><img src="screenshots/aishyv.github.io/missing-singers_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>aishyv.github.io</a></td>
 <td><a href="#colvapgithubio"><img src="screenshots/colvap.github.io/Lede-Program-2023---Air-Pollution-New-York-vs-China_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>colvap.github.io</a></td>
 <td><a href="#ann2128githubio"><img src="screenshots/ann2128.github.io/nyc_community_gardens_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ann2128.github.io</a></td>
 <td><a href="#alliekrugmangithubio"><img src="screenshots/alliekrugman.github.io/left-my-heart_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>alliekrugman.github.io</a></td>
 </tr><tr>
 <td><a href="#anaeazpuruagithubio"><img src="screenshots/anaeazpurua.github.io/project_one_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anaeazpurua.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
-<td>florinasutanto.github.io request failed</td>
+<td><a href="#retrospatialgithubio"><img src="screenshots/retrospatial.github.io/buffy-podcasts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>retrospatial.github.io</a></td>
 <td><a href="#coralmurphy3githubio"><img src="screenshots/coralmurphy3.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>coralmurphy3.github.io</a></td>
 </tr><tr>
 <td><a href="#cristinadelmargithubio"><img src="screenshots/cristinadelmar.github.io/parks-recovery-puerto-rico_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>cristinadelmar.github.io</a></td>
@@ -62,6 +62,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#yikematsgithubio"><img src="screenshots/yikemats.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yikemats.github.io</a></td>
 <td><a href="#karinashedgithubio"><img src="screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>karinashed.github.io</a></td>
 </tr><tr>
+<td><a href="#bique2002githubio"><img src="screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bique2002.github.io</a></td>
 </tr></table>
 
 
@@ -71,17 +72,16 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://aishyv.github.io/Kollywood-Singers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Credit where it’s due, unless you’re a singer](https://aishyv.github.io/missing-singers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/aishyv.github.io/missing-singers_index.html-mobile-thumb.jpg)](screenshots/aishyv.github.io/missing-singers_index.html-mobile-full.jpg)|[![medium](screenshots/aishyv.github.io/missing-singers_index.html-medium-thumb.jpg)](screenshots/aishyv.github.io/missing-singers_index.html-medium-full.jpg)|[![wide](screenshots/aishyv.github.io/missing-singers_index.html-wide-thumb.jpg)](screenshots/aishyv.github.io/missing-singers_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://aishyv.github.io/Kollywood-Singers/**
+**https://aishyv.github.io/missing-singers/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `image2.png` missing `alt` tag
+    * Image `image.png` missing `alt` tag
 
 
 
@@ -187,20 +187,18 @@ No issues found! 🎉
 
 
 
-## florinasutanto.github.io
+## retrospatial.github.io
 
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://florinasutanto.github.io/buffy-podcasts/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Buffy Podcasts](https://retrospatial.github.io/buffy-podcasts/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/retrospatial.github.io/buffy-podcasts_index.html-mobile-thumb.jpg)](screenshots/retrospatial.github.io/buffy-podcasts_index.html-mobile-full.jpg)|[![medium](screenshots/retrospatial.github.io/buffy-podcasts_index.html-medium-thumb.jpg)](screenshots/retrospatial.github.io/buffy-podcasts_index.html-medium-full.jpg)|[![wide](screenshots/retrospatial.github.io/buffy-podcasts_index.html-wide-thumb.jpg)](screenshots/retrospatial.github.io/buffy-podcasts_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://florinasutanto.github.io/buffy-podcasts/**
+**https://retrospatial.github.io/buffy-podcasts/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -908,4 +906,25 @@ No issues found! 🎉
 **https://karinashed.github.io/nyc-yellow-taxi-rides/**
 
 * Add a link to your project's GitHub repo, so people can review your code
+
+
+
+## bique2002.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Road Fatality Statistics](https://bique2002.github.io/LEDE-P1-Road-Fatalities-2018/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-mobile-thumb.jpg)](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-mobile-full.jpg)|[![medium](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg)](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-full.jpg)|[![wide](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-wide-thumb.jpg)](screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://bique2002.github.io/LEDE-P1-Road-Fatalities-2018/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `Images/road-accidents.jpg` missing `alt` tag
+    * Image `2018 Drivers Killed.png` missing `alt` tag
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
