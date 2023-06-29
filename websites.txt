@@ -4,7 +4,7 @@ https://ann2128.github.io/nyc_community_gardens
 https://alliekrugman.github.io/left-my-heart/
 https://anaeazpurua.github.io/project_one/
 https://github.com/bennett-gpj/Artisanal-mining-in-DRC/tree/main
-https://florinasutanto.github.io/buffy-podcasts/
+https://retrospatial.github.io/buffy-podcasts/
 https://coralmurphy3.github.io/Project-1
 https://cristinadelmar.github.io/parks-recovery-puerto-rico/
 https://davidmhorowitz.github.io/HTML-youtube-folder/
@@ -47,3 +47,4 @@ https://jellomoat.github.io/yogurts/
 https://tejalwakchoure.github.io/broadway
 https://yikemats.github.io/project1/
 https://karinashed.github.io/nyc-yellow-taxi-rides/
+https://bique2002.github.io/LEDE-P1-Road-Fatalities-2018/
