@@ -30,7 +30,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#githubcom"><img src="screenshots/github.com/krlmnz_Chile_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
 <td><a href="#nguyenkimca"><img src="screenshots/nguyenkim.ca/data-viz_gg_gilmores_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nguyenkim.ca</a></td>
 <td><a href="#krystalwongithubio"><img src="screenshots/krystalwon.github.io/environmental-docus-in-netflix_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>krystalwon.github.io</a></td>
-<td><a href="#lei10003githubio"><img src="screenshots/lei10003.github.io/Cellar-Defenders_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lei10003.github.io</a></td>
+<td>lei10003.github.io request failed</td>
 </tr><tr>
 <td>medievalmadeline.github.io request failed</td>
 <td><a href="#marcodallastellagithubio"><img src="screenshots/marcodallastella.github.io/swimming_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marcodallastella.github.io</a></td>
@@ -199,7 +199,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -483,15 +483,17 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Millennials' Wine Adventures on a Budget](https://lei10003.github.io/Cellar-Defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/Cellar-Defenders_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/Cellar-Defenders_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/Cellar-Defenders_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/Cellar-Defenders_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/Cellar-Defenders_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/Cellar-Defenders_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://lei10003.github.io/Cellar-Defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://lei10003.github.io/Cellar-Defenders/**
 
-* Add a link to your project's GitHub repo, so people can review your code
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
