@@ -562,7 +562,7 @@ No issues found! 🎉
 
 **https://mfhan.github.io/project1/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
