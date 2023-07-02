@@ -317,7 +317,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -867,7 +867,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[So you think you can Broadway?](https://tejalwakchoure.github.io/broadway)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/tejalwakchoure.github.io/broadway_index.html-mobile-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-mobile-full.jpg)|[![medium](screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-medium-full.jpg)|[![wide](screenshots/tejalwakchoure.github.io/broadway_index.html-wide-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-wide-full.jpg)|
+|[So you think you can Broadway?](https://tejalwakchoure.github.io/broadway)|[![mobile](screenshots/tejalwakchoure.github.io/broadway_index.html-mobile-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-mobile-full.jpg)|[![medium](screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-medium-full.jpg)|[![wide](screenshots/tejalwakchoure.github.io/broadway_index.html-wide-thumb.jpg)](screenshots/tejalwakchoure.github.io/broadway_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
