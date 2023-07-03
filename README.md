@@ -835,7 +835,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shotaro Miyasaka](https://sho-miyasaka.github.io/project-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sho-miyasaka.github.io/project-01_index.html-mobile-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-mobile-full.jpg)|[![medium](screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-medium-full.jpg)|[![wide](screenshots/sho-miyasaka.github.io/project-01_index.html-wide-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-wide-full.jpg)|
+|[More Japanese Feel a Renewed Affinity for South Korea](https://sho-miyasaka.github.io/project-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sho-miyasaka.github.io/project-01_index.html-mobile-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-mobile-full.jpg)|[![medium](screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-medium-full.jpg)|[![wide](screenshots/sho-miyasaka.github.io/project-01_index.html-wide-thumb.jpg)](screenshots/sho-miyasaka.github.io/project-01_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
