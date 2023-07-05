@@ -33,35 +33,36 @@ Quick checks to make sure our pages are looking their best.
 <td>lei10003.github.io request failed</td>
 </tr><tr>
 <td>medievalmadeline.github.io request failed</td>
+<td><a href="#marinav13githubio"><img src="screenshots/marinav13.github.io/MyProject_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marinav13.github.io</a></td>
 <td><a href="#marcodallastellagithubio"><img src="screenshots/marcodallastella.github.io/swimming_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marcodallastella.github.io</a></td>
 <td><a href="#margauxwritesgithubio"><img src="screenshots/margauxwrites.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>margauxwrites.github.io</a></td>
-<td><a href="#mfhangithubio"><img src="screenshots/mfhan.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mfhan.github.io</a></td>
 </tr><tr>
+<td><a href="#mfhangithubio"><img src="screenshots/mfhan.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mfhan.github.io</a></td>
 <td>mymo5303.github.io request failed</td>
 <td><a href="#meganmkimgithubio"><img src="screenshots/meganmkim.github.io/usbannedbooks_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganmkim.github.io</a></td>
 <td><a href="#mizuhomoriokagithubio"><img src="screenshots/mizuhomorioka.github.io/first_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mizuhomorioka.github.io</a></td>
-<td><a href="#mollylongmangithubio"><img src="screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mollylongman.github.io</a></td>
 </tr><tr>
+<td><a href="#mollylongmangithubio"><img src="screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mollylongman.github.io</a></td>
 <td><a href="#muimrangithubio"><img src="screenshots/muimran.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>muimran.github.io</a></td>
 <td><a href="#nam-sgn327githubio"><img src="screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nam-sgn327.github.io</a></td>
 <td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
-<td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
 </tr><tr>
+<td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/pilartms_rape-data_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
 <td><a href="#prachivashishttgithubio"><img src="screenshots/prachivashishtt.github.io/Vashisht_Meta_Lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>prachivashishtt.github.io</a></td>
 <td><a href="#sinderskirgithubio"><img src="screenshots/sinderskir.github.io/project1_jan8_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sinderskir.github.io</a></td>
-<td><a href="#rajitsenguptagithubio"><img src="screenshots/rajitsengupta.github.io/browsing_history_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rajitsengupta.github.io</a></td>
 </tr><tr>
+<td><a href="#rajitsenguptagithubio"><img src="screenshots/rajitsengupta.github.io/browsing_history_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rajitsengupta.github.io</a></td>
 <td><a href="#reliablerascalgithubio"><img src="screenshots/reliablerascal.github.io/cta_ridership_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>reliablerascal.github.io</a></td>
 <td><a href="#celyvelezgithubio"><img src="screenshots/celyvelez.github.io/lede-2023_project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>celyvelez.github.io</a></td>
 <td><a href="#seulgijunggithubio"><img src="screenshots/seulgijung.github.io/project01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>seulgijung.github.io</a></td>
-<td><a href="#sho-miyasakagithubio"><img src="screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sho-miyasaka.github.io</a></td>
 </tr><tr>
+<td><a href="#sho-miyasakagithubio"><img src="screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sho-miyasaka.github.io</a></td>
 <td><a href="#jellomoatgithubio"><img src="screenshots/jellomoat.github.io/yogurts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jellomoat.github.io</a></td>
 <td><a href="#tejalwakchouregithubio"><img src="screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tejalwakchoure.github.io</a></td>
 <td><a href="#yikematsgithubio"><img src="screenshots/yikemats.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yikemats.github.io</a></td>
-<td><a href="#karinashedgithubio"><img src="screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>karinashed.github.io</a></td>
 </tr><tr>
+<td><a href="#karinashedgithubio"><img src="screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>karinashed.github.io</a></td>
 <td><a href="#bique2002githubio"><img src="screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bique2002.github.io</a></td>
 </tr></table>
 
@@ -513,6 +514,24 @@ No issues found! 🎉
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+
+
+## marinav13.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[MA Pandemic Job Loss](https://marinav13.github.io/MyProject/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/marinav13.github.io/MyProject_index.html-mobile-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-mobile-full.jpg)|[![medium](screenshots/marinav13.github.io/MyProject_index.html-medium-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-medium-full.jpg)|[![wide](screenshots/marinav13.github.io/MyProject_index.html-wide-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://marinav13.github.io/MyProject/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `mass1.png` missing `alt` tag
+* Change URL to be all in lowercase
 
 
 
