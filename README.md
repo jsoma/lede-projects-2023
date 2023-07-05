@@ -643,7 +643,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Molly Longman's Incredible Website For Her First Lede Project](https://mollylongman.github.io/barbie-careers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-full.jpg)|[![medium](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-full.jpg)|[![wide](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-full.jpg)|
+|[mollylongman.github.io  barbie-careers](https://mollylongman.github.io/barbie-careers/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-full.jpg)|[![medium](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-full.jpg)|[![wide](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -651,7 +651,6 @@ No issues found! 🎉
 **https://mollylongman.github.io/barbie-careers/**
 
 * Add a link to your project's GitHub repo, so people can review your code
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
 
