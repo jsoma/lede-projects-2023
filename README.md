@@ -34,7 +34,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td>medievalmadeline.github.io request failed</td>
 <td><a href="#marinav13githubio"><img src="screenshots/marinav13.github.io/MyProject_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marinav13.github.io</a></td>
-<td><a href="#marcodallastellagithubio"><img src="screenshots/marcodallastella.github.io/swimming_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marcodallastella.github.io</a></td>
+<td>marcodallastella.github.io request failed</td>
 <td><a href="#margauxwritesgithubio"><img src="screenshots/margauxwrites.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>margauxwrites.github.io</a></td>
 </tr><tr>
 <td><a href="#mfhangithubio"><img src="screenshots/mfhan.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mfhan.github.io</a></td>
@@ -540,14 +540,16 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[After more than ten years, tech swimsuits are a thing of the past.](https://marcodallastella.github.io/swimming)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/marcodallastella.github.io/swimming_index.html-mobile-thumb.jpg)](screenshots/marcodallastella.github.io/swimming_index.html-mobile-full.jpg)|[![medium](screenshots/marcodallastella.github.io/swimming_index.html-medium-thumb.jpg)](screenshots/marcodallastella.github.io/swimming_index.html-medium-full.jpg)|[![wide](screenshots/marcodallastella.github.io/swimming_index.html-wide-thumb.jpg)](screenshots/marcodallastella.github.io/swimming_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://marcodallastella.github.io/swimming)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://marcodallastella.github.io/swimming**
 
-No issues found! 🎉
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
