@@ -22,7 +22,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#federicodtgithubio"><img src="screenshots/federicodt.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>federicodt.github.io</a></td>
 <td><a href="#gavaglianogithubio"><img src="screenshots/gavagliano.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gavagliano.github.io</a></td>
 </tr><tr>
-<td><a href="#juditecyprestecom"><img src="screenshots/juditecypreste.com/portfolio-lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juditecypreste.com</a></td>
+<td><a href="#juditecyprestecom"><img src="screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-medium-thumb.jpg" alt="homepage screenshot"><br>juditecypreste.com</a></td>
 <td><a href="#idontknowhowcomputersworkgithubio"><img src="screenshots/idontknowhowcomputerswork.github.io/PROJECTS_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>idontknowhowcomputerswork.github.io</a></td>
 <td><a href="#winter-beardgithubio"><img src="screenshots/winter-beard.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>winter-beard.github.io</a></td>
 <td><a href="#unoptimalgithubio"><img src="screenshots/unoptimal.github.io/magnus-journey_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>unoptimal.github.io</a></td>
@@ -361,18 +361,17 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Judite Cypreste  Portfolio](https://juditecypreste.com/portfolio-lede/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juditecypreste.com/portfolio-lede_index.html-mobile-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_index.html-mobile-full.jpg)|[![medium](screenshots/juditecypreste.com/portfolio-lede_index.html-medium-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_index.html-medium-full.jpg)|[![wide](screenshots/juditecypreste.com/portfolio-lede_index.html-wide-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_index.html-wide-full.jpg)|
+|[Zombie Songs](https://juditecypreste.com/portfolio-lede/project_1/project_1.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-mobile-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-mobile-full.jpg)|[![medium](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-medium-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-medium-full.jpg)|[![wide](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-wide-thumb.jpg)](screenshots/juditecypreste.com/portfolio-lede_project_1_project_1.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://juditecypreste.com/portfolio-lede/**
+**https://juditecypreste.com/portfolio-lede/project_1/project_1.html**
 
+* All HTML files should be named `index.html`. If this is a personal project, move `portfolio-lede/project_1/project_1.html` into a folder (or repo) called `project_1`, then rename the file `index.html`. That way the project can be found at **/project_1** instead of **/project_1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/me.png` missing `alt` tag
-    * Image `img/cover_project_1.gif` missing `alt` tag
-    * Image `img/cover_project_2.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+    * Image `img/project_1_title.png` missing `alt` tag
+* Change URL to use `-` instead of spaces or underscores
 
 
 
