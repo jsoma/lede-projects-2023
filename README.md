@@ -318,7 +318,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -371,6 +371,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `img/me.png` missing `alt` tag
     * Image `img/cover_project_1.gif` missing `alt` tag
+    * Image `img/cover_project_2.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
