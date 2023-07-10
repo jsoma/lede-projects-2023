@@ -9,59 +9,60 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#anaeazpuruagithubio"><img src="screenshots/anaeazpurua.github.io/project_one_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anaeazpurua.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
+<td><a href="#bennett-gpjgithubio"><img src="screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bennett-gpj.github.io</a></td>
 <td><a href="#retrospatialgithubio"><img src="screenshots/retrospatial.github.io/buffy-podcasts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>retrospatial.github.io</a></td>
-<td><a href="#coralmurphy3githubio"><img src="screenshots/coralmurphy3.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>coralmurphy3.github.io</a></td>
 </tr><tr>
+<td><a href="#coralmurphy3githubio"><img src="screenshots/coralmurphy3.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>coralmurphy3.github.io</a></td>
 <td><a href="#cristinadelmargithubio"><img src="screenshots/cristinadelmar.github.io/parks-recovery-puerto-rico_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>cristinadelmar.github.io</a></td>
 <td><a href="#davidmhorowitzgithubio"><img src="screenshots/davidmhorowitz.github.io/HTML-youtube-folder_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>davidmhorowitz.github.io</a></td>
 <td><a href="#scatterplotsandteagithubio"><img src="screenshots/scatterplotsandtea.github.io/portfolio-website_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>scatterplotsandtea.github.io</a></td>
-<td><a href="#eculliford1githubio"><img src="screenshots/eculliford1.github.io/pubs11_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>eculliford1.github.io</a></td>
 </tr><tr>
+<td><a href="#eculliford1githubio"><img src="screenshots/eculliford1.github.io/pubs11_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>eculliford1.github.io</a></td>
 <td><a href="#efkodongithubio"><img src="screenshots/efkodon.github.io/va-internet_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>efkodon.github.io</a></td>
 <td><a href="#hannaakanggithubio"><img src="screenshots/hannaakang.github.io/riot-deaths_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hannaakang.github.io</a></td>
 <td><a href="#federicodtgithubio"><img src="screenshots/federicodt.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>federicodt.github.io</a></td>
-<td><a href="#gavaglianogithubio"><img src="screenshots/gavagliano.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gavagliano.github.io</a></td>
 </tr><tr>
+<td><a href="#gavaglianogithubio"><img src="screenshots/gavagliano.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gavagliano.github.io</a></td>
 <td>juditecypreste.com request failed</td>
 <td><a href="#idontknowhowcomputersworkgithubio"><img src="screenshots/idontknowhowcomputerswork.github.io/PROJECTS_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>idontknowhowcomputerswork.github.io</a></td>
 <td><a href="#winter-beardgithubio"><img src="screenshots/winter-beard.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>winter-beard.github.io</a></td>
-<td><a href="#unoptimalgithubio"><img src="screenshots/unoptimal.github.io/magnus-journey_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>unoptimal.github.io</a></td>
 </tr><tr>
+<td><a href="#unoptimalgithubio"><img src="screenshots/unoptimal.github.io/magnus-journey_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>unoptimal.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/krlmnz_Chile_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
 <td><a href="#nguyenkimca"><img src="screenshots/nguyenkim.ca/data-viz_gg_gilmores_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nguyenkim.ca</a></td>
 <td><a href="#krystalwongithubio"><img src="screenshots/krystalwon.github.io/environmental-docus-in-netflix_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>krystalwon.github.io</a></td>
-<td>lei10003.github.io request failed</td>
 </tr><tr>
+<td>lei10003.github.io request failed</td>
 <td>medievalmadeline.github.io request failed</td>
 <td><a href="#marinav13githubio"><img src="screenshots/marinav13.github.io/MyProject_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>marinav13.github.io</a></td>
 <td>marcodallastella.github.io request failed</td>
-<td><a href="#margauxwritesgithubio"><img src="screenshots/margauxwrites.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>margauxwrites.github.io</a></td>
 </tr><tr>
+<td><a href="#margauxwritesgithubio"><img src="screenshots/margauxwrites.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>margauxwrites.github.io</a></td>
 <td><a href="#mfhangithubio"><img src="screenshots/mfhan.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mfhan.github.io</a></td>
 <td>mymo5303.github.io request failed</td>
 <td><a href="#meganmkimgithubio"><img src="screenshots/meganmkim.github.io/usbannedbooks_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meganmkim.github.io</a></td>
-<td><a href="#mizuhomoriokagithubio"><img src="screenshots/mizuhomorioka.github.io/first_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mizuhomorioka.github.io</a></td>
 </tr><tr>
+<td><a href="#mizuhomoriokagithubio"><img src="screenshots/mizuhomorioka.github.io/first_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mizuhomorioka.github.io</a></td>
 <td><a href="#mollylongmangithubio"><img src="screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mollylongman.github.io</a></td>
 <td><a href="#muimrangithubio"><img src="screenshots/muimran.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>muimran.github.io</a></td>
 <td><a href="#nam-sgn327githubio"><img src="screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nam-sgn327.github.io</a></td>
-<td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
 </tr><tr>
+<td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
 <td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
 <td><a href="#githubcom"><img src="screenshots/github.com/pilartms_rape-data_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
 <td><a href="#prachivashishttgithubio"><img src="screenshots/prachivashishtt.github.io/Vashisht_Meta_Lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>prachivashishtt.github.io</a></td>
-<td><a href="#sinderskirgithubio"><img src="screenshots/sinderskir.github.io/project1_jan8_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sinderskir.github.io</a></td>
 </tr><tr>
+<td><a href="#sinderskirgithubio"><img src="screenshots/sinderskir.github.io/project1_jan8_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sinderskir.github.io</a></td>
 <td><a href="#rajitsenguptagithubio"><img src="screenshots/rajitsengupta.github.io/browsing_history_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rajitsengupta.github.io</a></td>
 <td><a href="#reliablerascalgithubio"><img src="screenshots/reliablerascal.github.io/cta_ridership_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>reliablerascal.github.io</a></td>
 <td><a href="#celyvelezgithubio"><img src="screenshots/celyvelez.github.io/lede-2023_project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>celyvelez.github.io</a></td>
-<td><a href="#seulgijunggithubio"><img src="screenshots/seulgijung.github.io/project01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>seulgijung.github.io</a></td>
 </tr><tr>
+<td><a href="#seulgijunggithubio"><img src="screenshots/seulgijung.github.io/project01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>seulgijung.github.io</a></td>
 <td><a href="#sho-miyasakagithubio"><img src="screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sho-miyasaka.github.io</a></td>
 <td><a href="#jellomoatgithubio"><img src="screenshots/jellomoat.github.io/yogurts_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jellomoat.github.io</a></td>
 <td><a href="#tejalwakchouregithubio"><img src="screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tejalwakchoure.github.io</a></td>
-<td><a href="#yikematsgithubio"><img src="screenshots/yikemats.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yikemats.github.io</a></td>
 </tr><tr>
+<td><a href="#yikematsgithubio"><img src="screenshots/yikemats.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yikemats.github.io</a></td>
 <td><a href="#karinashedgithubio"><img src="screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>karinashed.github.io</a></td>
 <td><a href="#bique2002githubio"><img src="screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bique2002.github.io</a></td>
 </tr></table>
@@ -185,6 +186,23 @@ No issues found! 🎉
 **https://github.com/bennett-gpj/Artisanal-mining-in-DRC/tree/main**
 
 * Change URL to be all in lowercase
+
+
+
+## bennett-gpj.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Gangs-and-Displacement-in-Haiti](https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-full.jpg)|[![medium](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-full.jpg)|[![wide](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/**
+
+* Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -686,9 +704,7 @@ No issues found! 🎉
 
 **https://nam-sgn327.github.io/weightlifters/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `pictures/men_bump_v2.png` missing `alt` tag
-    * Image `pictures/women_bump_v2.png` missing `alt` tag
+No issues found! 🎉
 
 
 
