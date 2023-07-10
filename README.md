@@ -218,7 +218,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -449,7 +449,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[GitHub - krlmnz/Chile: Overview of Chilean trade and land used](https://github.com/krlmnz/Chile)|[![mobile](screenshots/github.com/krlmnz_Chile_index.html-mobile-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/krlmnz_Chile_index.html-medium-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-medium-full.jpg)|[![wide](screenshots/github.com/krlmnz_Chile_index.html-wide-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-wide-full.jpg)|
+|[GitHub - krlmnz/chile: Overview of Chilean trade and land used](https://github.com/krlmnz/Chile)|[![mobile](screenshots/github.com/krlmnz_Chile_index.html-mobile-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/krlmnz_Chile_index.html-medium-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-medium-full.jpg)|[![wide](screenshots/github.com/krlmnz_Chile_index.html-wide-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-wide-full.jpg)|
 |[GitHub - kesa-w/Lede2023.P1](https://github.com/kesa-w/Lede2023.P1.git)|[![mobile](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-mobile-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-medium-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-medium-full.jpg)|[![wide](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-wide-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-wide-full.jpg)|
 
 
