@@ -679,7 +679,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Weightlifting on the 'gram](https://nam-sgn327.github.io/weightlifters/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/nam-sgn327.github.io/weightlifters_index.html-mobile-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-mobile-full.jpg)|[![medium](screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-full.jpg)|[![wide](screenshots/nam-sgn327.github.io/weightlifters_index.html-wide-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-wide-full.jpg)|
+|[Weightlifting on the 'gram](https://nam-sgn327.github.io/weightlifters/)|[![mobile](screenshots/nam-sgn327.github.io/weightlifters_index.html-mobile-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-mobile-full.jpg)|[![medium](screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-medium-full.jpg)|[![wide](screenshots/nam-sgn327.github.io/weightlifters_index.html-wide-thumb.jpg)](screenshots/nam-sgn327.github.io/weightlifters_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -687,10 +687,8 @@ No issues found! 🎉
 **https://nam-sgn327.github.io/weightlifters/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `pictures/angie_dajomes.png` missing `alt` tag
     * Image `pictures/men_bump_v2.png` missing `alt` tag
     * Image `pictures/women_bump_v2.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
 
