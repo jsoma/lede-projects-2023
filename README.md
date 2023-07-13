@@ -154,7 +154,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Organ donation needs a bigger heart](https://alliekrugman.github.io/left-my-heart/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/alliekrugman.github.io/left-my-heart_index.html-mobile-thumb.jpg)](screenshots/alliekrugman.github.io/left-my-heart_index.html-mobile-full.jpg)|[![medium](screenshots/alliekrugman.github.io/left-my-heart_index.html-medium-thumb.jpg)](screenshots/alliekrugman.github.io/left-my-heart_index.html-medium-full.jpg)|[![wide](screenshots/alliekrugman.github.io/left-my-heart_index.html-wide-thumb.jpg)](screenshots/alliekrugman.github.io/left-my-heart_index.html-wide-full.jpg)|
-|[Trouble breathing at California’s border](https://alliekrugman.github.io/million-acres)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/alliekrugman.github.io/million-acres_index.html-mobile-thumb.jpg)](screenshots/alliekrugman.github.io/million-acres_index.html-mobile-full.jpg)|[![medium](screenshots/alliekrugman.github.io/million-acres_index.html-medium-thumb.jpg)](screenshots/alliekrugman.github.io/million-acres_index.html-medium-full.jpg)|[![wide](screenshots/alliekrugman.github.io/million-acres_index.html-wide-thumb.jpg)](screenshots/alliekrugman.github.io/million-acres_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://alliekrugman.github.io/million-acres)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -165,17 +165,9 @@ No issues found! 🎉
 
 **https://alliekrugman.github.io/million-acres**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
-   * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
-   * Text `:` overlaps with `Source:` at screen width 400
-   * Text `:` overlaps with `CalEnviroScreen 4.0` at screen width 400
-   * Text `Source:` overlaps with `CalEnviroScreen 4.0` at screen width 400
-   * Text `Out of breath` overlaps with `Imperial County border communities of Westmorland, Brawley, El Centro and` at screen width 400
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 400
-   * *and 8 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 19 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
