@@ -386,7 +386,7 @@ No issues found! 🎉
 
 **https://cristinadelmar.github.io/beaches-and-enterococci/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://cristinadelmar.github.io/parks-recovery-puerto-rico/**
 
