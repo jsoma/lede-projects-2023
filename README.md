@@ -169,6 +169,7 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 900
    * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
@@ -549,7 +550,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -1136,7 +1137,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 63 more*
+   * *and 72 more*
 
 
 
