@@ -169,7 +169,6 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -245,6 +244,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `texas-chart.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ann2128.github.io/nyc_community_gardens**
 
@@ -930,7 +930,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[spices](https://muimran.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/muimran.github.io/index.html-mobile-thumb.jpg)](screenshots/muimran.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/muimran.github.io/index.html-medium-thumb.jpg)](screenshots/muimran.github.io/index.html-medium-full.jpg)|[![wide](screenshots/muimran.github.io/index.html-wide-thumb.jpg)](screenshots/muimran.github.io/index.html-wide-full.jpg)|
-|[parliament](https://muimran.github.io/lede_project_2)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/muimran.github.io/lede_project_2_index.html-mobile-thumb.jpg)](screenshots/muimran.github.io/lede_project_2_index.html-mobile-full.jpg)|[![medium](screenshots/muimran.github.io/lede_project_2_index.html-medium-thumb.jpg)](screenshots/muimran.github.io/lede_project_2_index.html-medium-full.jpg)|[![wide](screenshots/muimran.github.io/lede_project_2_index.html-wide-thumb.jpg)](screenshots/muimran.github.io/lede_project_2_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://muimran.github.io/lede_project_2)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -941,8 +941,10 @@ No issues found! 🎉
 
 **https://muimran.github.io/lede_project_2**
 
-* Add a link to your project's GitHub repo, so people can review your code
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1135,7 +1137,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 72 more*
+   * *and 63 more*
 
 
 
