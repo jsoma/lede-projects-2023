@@ -550,7 +550,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1137,7 +1137,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 72 more*
+   * *and 63 more*
 
 
 
@@ -1182,7 +1182,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
