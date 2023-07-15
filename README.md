@@ -244,7 +244,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `texas-chart.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ann2128.github.io/nyc_community_gardens**
 
@@ -386,7 +385,7 @@ No issues found! 🎉
 
 **https://cristinadelmar.github.io/beaches-and-enterococci/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://cristinadelmar.github.io/parks-recovery-puerto-rico/**
 
@@ -641,7 +640,7 @@ No issues found! 🎉
 
 **https://karinashed.github.io/nyc-yellow-taxi-rides/**
 
-* Add a link to your project's GitHub repo, so people can review your code
+No issues found! 🎉
 
 
 
@@ -907,7 +906,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Molly Longman's Incredible Website For Her First Lede Project](https://mollylongman.github.io/barbie-careers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-mobile-full.jpg)|[![medium](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-medium-full.jpg)|[![wide](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-thumb.jpg)](screenshots/mollylongman.github.io/barbie-careers_index.html-wide-full.jpg)|
-|[Molly's Incredible Second Project](https://mollylongman.github.io/free-lunch/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mollylongman.github.io/free-lunch_index.html-mobile-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-mobile-full.jpg)|[![medium](screenshots/mollylongman.github.io/free-lunch_index.html-medium-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-medium-full.jpg)|[![wide](screenshots/mollylongman.github.io/free-lunch_index.html-wide-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-wide-full.jpg)|
+|[free-lunch/index.html](https://mollylongman.github.io/free-lunch/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mollylongman.github.io/free-lunch_index.html-mobile-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-mobile-full.jpg)|[![medium](screenshots/mollylongman.github.io/free-lunch_index.html-medium-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-medium-full.jpg)|[![wide](screenshots/mollylongman.github.io/free-lunch_index.html-wide-thumb.jpg)](screenshots/mollylongman.github.io/free-lunch_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -919,7 +918,10 @@ No issues found! 🎉
 
 **https://mollylongman.github.io/free-lunch/**
 
+* Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `2022apple` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
