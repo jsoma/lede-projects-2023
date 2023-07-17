@@ -63,7 +63,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#seulgijunggithubio"><img src="screenshots/seulgijung.github.io/project01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>seulgijung.github.io</a></td>
 </tr><tr>
 <td><a href="#sho-miyasakagithubio"><img src="screenshots/sho-miyasaka.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sho-miyasaka.github.io</a></td>
-<td>sinderskir.github.io request failed</td>
+<td><a href="#sinderskirgithubio"><img src="screenshots/sinderskir.github.io/city-in-red_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sinderskir.github.io</a></td>
 <td><a href="#tejalwakchouregithubio"><img src="screenshots/tejalwakchoure.github.io/broadway_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tejalwakchoure.github.io</a></td>
 <td><a href="#unoptimalgithubio"><img src="screenshots/unoptimal.github.io/magnus-journey_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>unoptimal.github.io</a></td>
 </tr><tr>
@@ -635,6 +635,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[NYC Taxi Riders Are Still Decent Tippers](https://karinashed.github.io/nyc-yellow-taxi-rides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-mobile-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-mobile-full.jpg)|[![medium](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-medium-full.jpg)|[![wide](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-wide-thumb.jpg)](screenshots/karinashed.github.io/nyc-yellow-taxi-rides_index.html-wide-full.jpg)|
+|[Slang On The Charts](https://karinashed.github.io/slang-lyrics-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/karinashed.github.io/slang-lyrics-project_index.html-mobile-thumb.jpg)](screenshots/karinashed.github.io/slang-lyrics-project_index.html-mobile-full.jpg)|[![medium](screenshots/karinashed.github.io/slang-lyrics-project_index.html-medium-thumb.jpg)](screenshots/karinashed.github.io/slang-lyrics-project_index.html-medium-full.jpg)|[![wide](screenshots/karinashed.github.io/slang-lyrics-project_index.html-wide-thumb.jpg)](screenshots/karinashed.github.io/slang-lyrics-project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -642,6 +643,10 @@ No issues found! 🎉
 **https://karinashed.github.io/nyc-yellow-taxi-rides/**
 
 No issues found! 🎉
+
+**https://karinashed.github.io/slang-lyrics-project/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1265,18 +1270,19 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://sinderskir.github.io/city_in_red/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[city-in-red/index.html](https://sinderskir.github.io/city-in-red/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sinderskir.github.io/city-in-red_index.html-mobile-thumb.jpg)](screenshots/sinderskir.github.io/city-in-red_index.html-mobile-full.jpg)|[![medium](screenshots/sinderskir.github.io/city-in-red_index.html-medium-thumb.jpg)](screenshots/sinderskir.github.io/city-in-red_index.html-medium-full.jpg)|[![wide](screenshots/sinderskir.github.io/city-in-red_index.html-wide-thumb.jpg)](screenshots/sinderskir.github.io/city-in-red_index.html-wide-full.jpg)|
 |[How did Brazilian Politicians Approach January 8th on Twitter?](https://sinderskir.github.io/project1_jan8/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sinderskir.github.io/project1_jan8_index.html-mobile-thumb.jpg)](screenshots/sinderskir.github.io/project1_jan8_index.html-mobile-full.jpg)|[![medium](screenshots/sinderskir.github.io/project1_jan8_index.html-medium-thumb.jpg)](screenshots/sinderskir.github.io/project1_jan8_index.html-medium-full.jpg)|[![wide](screenshots/sinderskir.github.io/project1_jan8_index.html-wide-thumb.jpg)](screenshots/sinderskir.github.io/project1_jan8_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://sinderskir.github.io/city_in_red/**
+**https://sinderskir.github.io/city-in-red/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Needs a title, add a `<title>` tag to the `<head>`
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `https://github.com/sinderskir/city-in-red/blob/main/img/rapes_historical-01.png?raw=true` missing `alt` tag
+    * Image `https://github.com/sinderskir/city-in-red/blob/main/img/chart_rapesweekday-01.png?raw=true` missing `alt` tag
+    * Image `https://github.com/sinderskir/city-in-red/blob/main/img/rapes_mean_Prancheta%201.png?raw=true` missing `alt` tag
 
 **https://sinderskir.github.io/project1_jan8/**
 
