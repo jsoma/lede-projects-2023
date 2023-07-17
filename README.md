@@ -530,7 +530,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -908,8 +908,6 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `2022apple` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -1028,12 +1026,12 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./assets/img/frame.png` missing `alt` tag
-    * Image `./assets/img/BIS-bracket-h.png` missing `alt` tag
-    * Image `./assets/img/BIS-bracket-v.png` missing `alt` tag
     * Image `./assets/img/name-diagram.png` missing `alt` tag
     * Image `./assets/img/annotations/1925-MSG.png` missing `alt` tag
-    * *and 5 more*
+    * Image `./assets/img/annotations/1937-spicypiece-bis.png` missing `alt` tag
+    * Image `./assets/img/annotations/1958-BIS-lineup.png` missing `alt` tag
+    * Image `./assets/img/annotations/1964-whippet-BIS.png` missing `alt` tag
+    * *and 2 more*
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
