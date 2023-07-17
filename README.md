@@ -1185,7 +1185,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
