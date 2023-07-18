@@ -530,7 +530,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1024,15 +1024,8 @@ No issues found! 🎉
 
 **https://nguyenkim.ca/data-viz/westminster**
 
-* Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./assets/img/name-diagram.png` missing `alt` tag
-    * Image `./assets/img/annotations/1925-MSG.png` missing `alt` tag
-    * Image `./assets/img/annotations/1937-spicypiece-bis.png` missing `alt` tag
-    * Image `./assets/img/annotations/1958-BIS-lineup.png` missing `alt` tag
-    * Image `./assets/img/annotations/1964-whippet-BIS.png` missing `alt` tag
-    * *and 2 more*
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
