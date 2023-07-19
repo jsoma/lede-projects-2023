@@ -150,7 +150,6 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -226,7 +225,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `texas-chart.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ann2128.github.io/nyc_community_gardens**
 
@@ -530,7 +528,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1024,8 +1022,7 @@ No issues found! 🎉
 
 **https://nguyenkim.ca/data-viz/westminster**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./assets/img/name-diagram.png` missing `alt` tag
+No issues found! 🎉
 
 
 
@@ -1034,7 +1031,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Fox News Cable Ratings](https://niallsimonian.github.io/Lede-Project-2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-full.jpg)|
+|[Lede-Project-2](https://niallsimonian.github.io/Lede-Project-2/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-full.jpg)|
 |[Project 1](https://niallsimonian.github.io/LedeProjects/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/LedeProjects_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/LedeProjects_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-wide-full.jpg)|
 
 
@@ -1042,21 +1039,8 @@ No issues found! 🎉
 
 **https://niallsimonian.github.io/Lede-Project-2/**
 
+* Add a link to your project's GitHub repo, so people can review your code
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `3,000,000 ` is too small at 9px
-    * Text `viewers` is too small at 9px
-    * Text `2,600,000` is too small at 9px
-    * Text `2,200,000` is too small at 9px
-    * Text `1,800,000` is too small at 9px
-    * Text `1,400,000` is too small at 9px
-    * Text `1,000,000` is too small at 9px
-    * *and 174 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `6/26` overlaps with `June 28` at screen width 400
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Superclarendon` font not found, used in 147 text objects. Example: _Trump pleads not guilty to documents case in Florida, "The Five" : June 13, 2,984,000_
 
 **https://niallsimonian.github.io/LedeProjects/**
 
