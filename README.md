@@ -52,7 +52,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
 <td><a href="#nguyenkimca"><img src="screenshots/nguyenkim.ca/data-viz_gilmores_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nguyenkim.ca</a></td>
 </tr><tr>
-<td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
+<td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/Project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
 <td><a href="#prachivashishttgithubio"><img src="screenshots/prachivashishtt.github.io/Vashisht_Meta_Lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>prachivashishtt.github.io</a></td>
 <td><a href="#rajitsenguptagithubio"><img src="screenshots/rajitsengupta.github.io/browsing_history_project_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rajitsengupta.github.io</a></td>
 <td><a href="#reliablerascalgithubio"><img src="screenshots/reliablerascal.github.io/cta_ridership_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>reliablerascal.github.io</a></td>
@@ -150,6 +150,8 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 400
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 900
    * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
@@ -697,7 +699,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Site not found · GitHub Pages](https://lei10003.github.io/Cellar-Defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Cost of Sunlight](https://lei10003.github.io/the-cost-of-sunlight)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
+|[the-cost-of-sunlight/index.html](https://lei10003.github.io/the-cost-of-sunlight)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -711,6 +713,7 @@ No issues found! 🎉
 
 **https://lei10003.github.io/the-cost-of-sunlight**
 
+* Needs a title, add a `<title>` tag to the `<head>`
 * Add a link to your project's GitHub repo, so people can review your code
 
 
@@ -1033,22 +1036,34 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Lede-Project-2](https://niallsimonian.github.io/Lede-Project-2/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/Lede-Project-2_index.html-wide-full.jpg)|
-|[Project 1](https://niallsimonian.github.io/LedeProjects/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/LedeProjects_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/LedeProjects_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/LedeProjects_index.html-wide-full.jpg)|
+|[Project 2: <a href="https://www.w3schools.com">here</a>](https://niallsimonian.github.io/Project-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/Project-01_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/Project-01_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/Project-01_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/Project-01_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/Project-01_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/Project-01_index.html-wide-full.jpg)|
+|[Fox News Cable Ratings](https://niallsimonian.github.io/project-02/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/niallsimonian.github.io/project-02_index.html-mobile-thumb.jpg)](screenshots/niallsimonian.github.io/project-02_index.html-mobile-full.jpg)|[![medium](screenshots/niallsimonian.github.io/project-02_index.html-medium-thumb.jpg)](screenshots/niallsimonian.github.io/project-02_index.html-medium-full.jpg)|[![wide](screenshots/niallsimonian.github.io/project-02_index.html-wide-thumb.jpg)](screenshots/niallsimonian.github.io/project-02_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://niallsimonian.github.io/Lede-Project-2/**
-
-* Add a link to your project's GitHub repo, so people can review your code
-* Change URL to be all in lowercase
-
-**https://niallsimonian.github.io/LedeProjects/**
+**https://niallsimonian.github.io/Project-01/**
 
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://niallsimonian.github.io/project-02/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `3,000,000 ` is too small at 9px
+    * Text `viewers` is too small at 9px
+    * Text `2,600,000` is too small at 9px
+    * Text `2,200,000` is too small at 9px
+    * Text `1,800,000` is too small at 9px
+    * Text `1,400,000` is too small at 9px
+    * Text `1,000,000` is too small at 9px
+    * *and 174 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `6/26` overlaps with `June 28` at screen width 400
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Superclarendon` font not found, used in 147 text objects. Example: _Trump pleads not guilty to documents case in Florida, "The Five" : June 13, 2,984,000_
 
 
 
@@ -1162,7 +1177,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
