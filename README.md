@@ -696,7 +696,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Site not found · GitHub Pages](https://lei10003.github.io/Cellar-Defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[the-cost-of-sunlight/index.html](https://lei10003.github.io/the-cost-of-sunlight)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
+|[Project 2 Post-Mortem](https://lei10003.github.io/the-cost-of-sunlight)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -710,7 +710,7 @@ No issues found! 🎉
 
 **https://lei10003.github.io/the-cost-of-sunlight**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+No issues found! 🎉
 
 
 
@@ -906,7 +906,6 @@ No issues found! 🎉
 **https://mollylongman.github.io/free-lunch/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Add a link to your project's GitHub repo, so people can review your code
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -1173,7 +1172,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
