@@ -47,7 +47,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#mollylongmangithubio"><img src="screenshots/mollylongman.github.io/barbie-careers_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mollylongman.github.io</a></td>
 <td><a href="#muimrangithubio"><img src="screenshots/muimran.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>muimran.github.io</a></td>
 </tr><tr>
-<td><a href="#mymo5303githubio"><img src="screenshots/mymo5303.github.io/destinationmorioka_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mymo5303.github.io</a></td>
+<td><a href="#mymo5303githubio"><img src="screenshots/mymo5303.github.io/project01-suicide_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mymo5303.github.io</a></td>
 <td><a href="#nam-sgn327githubio"><img src="screenshots/nam-sgn327.github.io/fanfiction_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nam-sgn327.github.io</a></td>
 <td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
 <td><a href="#nguyenkimca"><img src="screenshots/nguyenkim.ca/data-viz_gilmores_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nguyenkim.ca</a></td>
@@ -531,7 +531,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -941,23 +941,20 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|["Morioka: Hidden Gem Chosen by the New York Times"](https://mymo5303.github.io/destinationmorioka/)|[![mobile](screenshots/mymo5303.github.io/destinationmorioka_index.html-mobile-thumb.jpg)](screenshots/mymo5303.github.io/destinationmorioka_index.html-mobile-full.jpg)|[![medium](screenshots/mymo5303.github.io/destinationmorioka_index.html-medium-thumb.jpg)](screenshots/mymo5303.github.io/destinationmorioka_index.html-medium-full.jpg)|[![wide](screenshots/mymo5303.github.io/destinationmorioka_index.html-wide-thumb.jpg)](screenshots/mymo5303.github.io/destinationmorioka_index.html-wide-full.jpg)|
-|[Site not found · GitHub Pages](https://mymo5303.github.io/project01-Suicide/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Children in Japan are taking their own lives](https://mymo5303.github.io/project01-suicide/)|[![mobile](screenshots/mymo5303.github.io/project01-suicide_index.html-mobile-thumb.jpg)](screenshots/mymo5303.github.io/project01-suicide_index.html-mobile-full.jpg)|[![medium](screenshots/mymo5303.github.io/project01-suicide_index.html-medium-thumb.jpg)](screenshots/mymo5303.github.io/project01-suicide_index.html-medium-full.jpg)|[![wide](screenshots/mymo5303.github.io/project01-suicide_index.html-wide-thumb.jpg)](screenshots/mymo5303.github.io/project01-suicide_index.html-wide-full.jpg)|
+|["Morioka: Hidden Gem Chosen by the New York Times"](https://mymo5303.github.io/project02-destinationmorioka/)|[![mobile](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-mobile-thumb.jpg)](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-mobile-full.jpg)|[![medium](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-medium-thumb.jpg)](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-medium-full.jpg)|[![wide](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-wide-thumb.jpg)](screenshots/mymo5303.github.io/project02-destinationmorioka_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://mymo5303.github.io/destinationmorioka/**
+**https://mymo5303.github.io/project01-suicide/**
+
+* Add a link to your project's GitHub repo, so people can review your code
+
+**https://mymo5303.github.io/project02-destinationmorioka/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `IMG_1300.jpg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://mymo5303.github.io/project01-Suicide/**
-
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -1129,7 +1126,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 63 more*
+   * *and 72 more*
 
 
 
