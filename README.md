@@ -150,8 +150,6 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 900
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -227,6 +225,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `texas-chart.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ann2128.github.io/nyc_community_gardens**
 
@@ -285,7 +284,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sara Cely - Lede Project 01](https://celyvelez.github.io/lede-2023/project-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-mobile-thumb.jpg)](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-mobile-full.jpg)|[![medium](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-medium-thumb.jpg)](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-medium-full.jpg)|[![wide](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-wide-thumb.jpg)](screenshots/celyvelez.github.io/lede-2023_project-01_index.html-wide-full.jpg)|
-|[Sara Cely Vélez](https://celyvelez.github.io/Lede/Project%2002/colombian-bills-2018-2022.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-mobile-thumb.jpg)](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-mobile-full.jpg)|[![medium](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-medium-thumb.jpg)](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-medium-full.jpg)|[![wide](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-wide-thumb.jpg)](screenshots/celyvelez.github.io/Lede_Project%2002_colombian-bills-2018-2022.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://celyvelez.github.io/Lede/Project%2002/colombian-bills-2018-2022.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -296,8 +295,10 @@ No issues found! 🎉
 
 **https://celyvelez.github.io/Lede/Project%2002/colombian-bills-2018-2022.html**
 
+* **Could not access the page** - if you moved it, let me know!
 * All HTML files should be named `index.html`. If this is a personal project, move `Lede/Project%2002/colombian-bills-2018-2022.html` into a folder (or repo) called `colombian-bills-2018-2022`, then rename the file `index.html`. That way the project can be found at **/colombian-bills-2018-2022** instead of **/colombian-bills-2018-2022.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -530,7 +531,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1125,7 +1126,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 76 more*
+   * *and 63 more*
 
 
 
