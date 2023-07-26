@@ -531,7 +531,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -909,6 +909,7 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -949,7 +950,7 @@ No issues found! 🎉
 
 **https://mymo5303.github.io/project01-suicide/**
 
-* Add a link to your project's GitHub repo, so people can review your code
+No issues found! 🎉
 
 **https://mymo5303.github.io/project02-destinationmorioka/**
 
@@ -1126,7 +1127,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 72 more*
+   * *and 63 more*
 
 
 
