@@ -531,7 +531,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1149,11 +1149,7 @@ No issues found! 🎉
 **https://reliablerascal.github.io/synchronicity/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `images/synchronicity-1024x1024.jpg` missing `alt` tag
-    * Image `images/dw_billboard_1983.png` missing `alt` tag
-    * Image `images/figma_police_spotify_monthly.png` missing `alt` tag
     * Image `images/4flames_960px.png` missing `alt` tag
-    * Image `images/dw_synchronicity_covers.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
