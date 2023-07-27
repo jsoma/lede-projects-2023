@@ -1126,7 +1126,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 72 more*
+   * *and 63 more*
 
 
 
