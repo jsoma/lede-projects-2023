@@ -34,7 +34,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#krlmnzgithubio"><img src="screenshots/krlmnz.github.io/Garment_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>krlmnz.github.io</a></td>
 <td><a href="#krystalwongithubio"><img src="screenshots/krystalwon.github.io/environmental-docus-in-netflix_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>krystalwon.github.io</a></td>
-<td>lei10003.github.io request failed</td>
+<td><a href="#ligea-alexandergithubio"><img src="screenshots/ligea-alexander.github.io/cellar-defenders_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ligea-alexander.github.io</a></td>
 <td><a href="#marcodallastellagithubio"><img src="screenshots/marcodallastella.github.io/articles_berlusconi.html-medium-thumb.jpg" alt="homepage screenshot"><br>marcodallastella.github.io</a></td>
 </tr><tr>
 <td><a href="#margauxwritesgithubio"><img src="screenshots/margauxwrites.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>margauxwrites.github.io</a></td>
@@ -148,8 +148,6 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 900
-   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -230,7 +228,6 @@ No issues found! 🎉
 **https://ann2128.github.io/nyc_community_gardens**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -692,27 +689,51 @@ No issues found! 🎉
 
 
 
-## lei10003.github.io
+## ligea-alexander.github.io
 
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://lei10003.github.io/Cellar-Defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Project 2 Post-Mortem](https://lei10003.github.io/the-cost-of-sunlight)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/lei10003.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
+|[Millennials' Wine Adventures on a Budget](https://ligea-alexander.github.io/cellar-defenders/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-mobile-thumb.jpg)](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-mobile-full.jpg)|[![medium](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-medium-thumb.jpg)](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-medium-full.jpg)|[![wide](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-wide-thumb.jpg)](screenshots/ligea-alexander.github.io/cellar-defenders_index.html-wide-full.jpg)|
+|[Project 2 Post-Mortem](https://ligea-alexander.github.io/the-cost-of-sunlight/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-mobile-thumb.jpg)](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-mobile-full.jpg)|[![medium](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-medium-thumb.jpg)](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-medium-full.jpg)|[![wide](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-wide-thumb.jpg)](screenshots/ligea-alexander.github.io/the-cost-of-sunlight_index.html-wide-full.jpg)|
+|[cost-of-sunlight-story/index.html](https://ligea-alexander.github.io/cost-of-sunlight-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-mobile-thumb.jpg)](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-mobile-full.jpg)|[![medium](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-medium-thumb.jpg)](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-medium-full.jpg)|[![wide](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-wide-thumb.jpg)](screenshots/ligea-alexander.github.io/cost-of-sunlight-story_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://lei10003.github.io/Cellar-Defenders/**
+**https://ligea-alexander.github.io/cellar-defenders/**
 
-* **Could not access the page** - if you moved it, let me know!
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Add a link to your project's GitHub repo, so people can review your code
 
-**https://lei10003.github.io/the-cost-of-sunlight**
+**https://ligea-alexander.github.io/the-cost-of-sunlight/**
 
 No issues found! 🎉
+
+**https://ligea-alexander.github.io/cost-of-sunlight-story/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `householder with spouse` is too small at 7px
+    * Text `57,057` is too small at 8px
+    * Text `lives alone` is too small at 7px
+    * Text `21,777` is too small at 8px
+    * Text `householder with partner` is too small at 7px
+    * Text `child of householder` is too small at 7px
+    * Text `other relatives` is too small at 7px
+    * *and 263 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Bright and` overlaps with `sun-drenched` at screen width 400
+   * Text `Bright and` overlaps with `sun-drenched` at screen width 900
+   * Text `Boreum Hill` overlaps with `11217` at screen width 1300
+   * Text `Source:` overlaps with `Census Reporter` at screen width 1300
+   * Text `Prospect Heights` overlaps with `11238` at screen width 1300
+   * Text `Source:` overlaps with `Census Reporter` at screen width 1300
+   * Text `Bright and` overlaps with `sun-drenched` at screen width 1300
+   * *and 3 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Helvetica Neue"` font not found, used in 93 text objects. Example: _As we stand here at the pinnacle of our journey, , the reality becomes clear—sunlight, a universal source of life, , has a cost in our urban landscape. _
+    * `Impact` font not found, used in 16 text objects. Example: _Key:, Key:, Key:_
 
 
 
