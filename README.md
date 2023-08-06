@@ -228,7 +228,6 @@ No issues found! 🎉
 **https://ann2128.github.io/nyc_community_gardens**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1187,7 +1186,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
