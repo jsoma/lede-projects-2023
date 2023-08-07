@@ -228,7 +228,6 @@ No issues found! 🎉
 **https://ann2128.github.io/nyc_community_gardens**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
