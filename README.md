@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#anaeazpuruagithubio"><img src="screenshots/anaeazpurua.github.io/graduation_speeches_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anaeazpurua.github.io</a></td>
 <td><a href="#ann2128githubio"><img src="screenshots/ann2128.github.io/city_walkability.html-medium-thumb.jpg" alt="homepage screenshot"><br>ann2128.github.io</a></td>
-<td><a href="#bennett-gpjgithubio"><img src="screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bennett-gpj.github.io</a></td>
+<td>bennett-gpj.github.io request failed</td>
 <td><a href="#bique2002githubio"><img src="screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bique2002.github.io</a></td>
 </tr><tr>
 <td><a href="#celyvelezgithubio"><img src="screenshots/celyvelez.github.io/lede-2023_project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>celyvelez.github.io</a></td>
@@ -223,6 +223,7 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `texas-chart.jpg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ann2128.github.io/nyc_community_gardens**
 
@@ -236,20 +237,24 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Gangs-and-Displacement-in-Haiti](https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-full.jpg)|[![medium](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-full.jpg)|[![wide](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-full.jpg)|
-|[Gangs-and-Displacement-in-Haiti](https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-mobile-full.jpg)|[![medium](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-medium-full.jpg)|[![wide](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-thumb.jpg)](screenshots/bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Site not found · GitHub Pages](https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://bennett-gpj.github.io/Gangs-and-Displacement-in-Haiti/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -490,7 +495,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[GitHub - bennett-gpj/Artisanal-mining-in-DRC: An exploration of the data from informal mining sites in Democratic Republic of Congo (2020–2023)](https://github.com/bennett-gpj/Artisanal-mining-in-DRC/tree/main)|[![mobile](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-mobile-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-full.jpg)|[![wide](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-wide-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-wide-full.jpg)|
+|[GitHub - bennett-hanson/Artisanal-mining-in-DRC: An exploration of the data from informal mining sites in Democratic Republic of Congo (2020–2023)](https://github.com/bennett-gpj/Artisanal-mining-in-DRC/tree/main)|[![mobile](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-mobile-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-medium-full.jpg)|[![wide](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-wide-thumb.jpg)](screenshots/github.com/bennett-gpj_Artisanal-mining-in-DRC_tree_main_index.html-wide-full.jpg)|
 |[GitHub - kesa-w/Lede2023.P1](https://github.com/kesa-w/Lede2023.P1.git)|[![mobile](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-mobile-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-medium-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-medium-full.jpg)|[![wide](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-wide-thumb.jpg)](screenshots/github.com/kesa-w_Lede2023.P1.git_index.html-wide-full.jpg)|
 |[GitHub - krlmnz/chile: Overview of Chilean trade and land used](https://github.com/krlmnz/Chile)|[![mobile](screenshots/github.com/krlmnz_Chile_index.html-mobile-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/krlmnz_Chile_index.html-medium-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-medium-full.jpg)|[![wide](screenshots/github.com/krlmnz_Chile_index.html-wide-thumb.jpg)](screenshots/github.com/krlmnz_Chile_index.html-wide-full.jpg)|
 |[Page not found · GitHub · GitHub](https://github.com/pilartms/rape-data)|request failed|request failed|request failed|
@@ -975,7 +980,7 @@ No issues found! 🎉
 
 **https://mymo5303.github.io/project02-destinationmorioka/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
