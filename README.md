@@ -7,7 +7,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#alichekgithubio"><img src="screenshots/alichek.github.io/There-will-be-birds_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>alichek.github.io</a></td>
 <td><a href="#alliekrugmangithubio"><img src="screenshots/alliekrugman.github.io/left-my-heart_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>alliekrugman.github.io</a></td>
 </tr><tr>
-<td><a href="#anaeazpuruagithubio"><img src="screenshots/anaeazpurua.github.io/graduation_speeches_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anaeazpurua.github.io</a></td>
+<td>anaeazpurua.github.io request failed</td>
 <td><a href="#ann2128githubio"><img src="screenshots/ann2128.github.io/city_walkability.html-medium-thumb.jpg" alt="homepage screenshot"><br>ann2128.github.io</a></td>
 <td>bennett-gpj.github.io request failed</td>
 <td><a href="#bique2002githubio"><img src="screenshots/bique2002.github.io/LEDE-P1-Road-Fatalities-2018_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>bique2002.github.io</a></td>
@@ -158,7 +158,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[What did Tom Hanks & Oprah told recent graduates? These are the words they chos](https://anaeazpurua.github.io/graduation_speeches/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-mobile-thumb.jpg)](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-mobile-full.jpg)|[![medium](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-medium-thumb.jpg)](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-medium-full.jpg)|[![wide](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-wide-thumb.jpg)](screenshots/anaeazpurua.github.io/graduation_speeches_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://anaeazpurua.github.io/graduation_speeches/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Banking on Nostalgia](https://anaeazpurua.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/anaeazpurua.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/anaeazpurua.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/anaeazpurua.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/anaeazpurua.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/anaeazpurua.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/anaeazpurua.github.io/project_one_index.html-wide-full.jpg)|
 
 
@@ -166,7 +166,9 @@ No issues found! 🎉
 
 **https://anaeazpurua.github.io/graduation_speeches/**
 
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://anaeazpurua.github.io/project_one/**
@@ -1179,7 +1181,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
