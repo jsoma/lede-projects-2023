@@ -148,6 +148,7 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -831,7 +832,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Digital Local News Organizations Financed by Philanthropy](https://meganmkim.github.io/digital_local_news/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganmkim.github.io/digital_local_news_index.html-mobile-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-mobile-full.jpg)|[![medium](screenshots/meganmkim.github.io/digital_local_news_index.html-medium-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-medium-full.jpg)|[![wide](screenshots/meganmkim.github.io/digital_local_news_index.html-wide-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-wide-full.jpg)|
+|[Social Media News and Academic Research](https://meganmkim.github.io/digital_local_news/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganmkim.github.io/digital_local_news_index.html-mobile-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-mobile-full.jpg)|[![medium](screenshots/meganmkim.github.io/digital_local_news_index.html-medium-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-medium-full.jpg)|[![wide](screenshots/meganmkim.github.io/digital_local_news_index.html-wide-thumb.jpg)](screenshots/meganmkim.github.io/digital_local_news_index.html-wide-full.jpg)|
 |[Record High Book Ban in 2021-2022 Driven by Four States](https://meganmkim.github.io/usbannedbooks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meganmkim.github.io/usbannedbooks_index.html-mobile-thumb.jpg)](screenshots/meganmkim.github.io/usbannedbooks_index.html-mobile-full.jpg)|[![medium](screenshots/meganmkim.github.io/usbannedbooks_index.html-medium-thumb.jpg)](screenshots/meganmkim.github.io/usbannedbooks_index.html-medium-full.jpg)|[![wide](screenshots/meganmkim.github.io/usbannedbooks_index.html-wide-thumb.jpg)](screenshots/meganmkim.github.io/usbannedbooks_index.html-wide-full.jpg)|
 
 
@@ -841,11 +842,12 @@ No issues found! 🎉
 
 * Add a link to your project's GitHub repo, so people can review your code
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `header_image.jpg` missing `alt` tag
-    * Image `yr_revenue.svg` missing `alt` tag
-    * Image `revenue.svg` missing `alt` tag
+    * Image `ad_trend_graphic.jpg` missing `alt` tag
     * Image `revenue_distribution.svg` missing `alt` tag
+    * Image `revenue.svg` missing `alt` tag
+    * Image `yr_revenue.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://meganmkim.github.io/usbannedbooks/**
 
