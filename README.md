@@ -523,7 +523,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -859,7 +859,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Queens and Crowns: The Royal Consort Conundrum](https://mfhan.github.io/project1/)|[![mobile](screenshots/mfhan.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/mfhan.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/mfhan.github.io/project1_index.html-medium-thumb.jpg)](screenshots/mfhan.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/mfhan.github.io/project1_index.html-wide-thumb.jpg)](screenshots/mfhan.github.io/project1_index.html-wide-full.jpg)|
-|[Gulf Countries' Sports Shopping Spree](https://mfhan.github.io/sportsbuy/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mfhan.github.io/sportsbuy_index.html-mobile-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-mobile-full.jpg)|[![medium](screenshots/mfhan.github.io/sportsbuy_index.html-medium-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-medium-full.jpg)|[![wide](screenshots/mfhan.github.io/sportsbuy_index.html-wide-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-wide-full.jpg)|
+|[Gulf Countries' Sports Shopping Spree](https://mfhan.github.io/sportsbuy/)|[![mobile](screenshots/mfhan.github.io/sportsbuy_index.html-mobile-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-mobile-full.jpg)|[![medium](screenshots/mfhan.github.io/sportsbuy_index.html-medium-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-medium-full.jpg)|[![wide](screenshots/mfhan.github.io/sportsbuy_index.html-wide-thumb.jpg)](screenshots/mfhan.github.io/sportsbuy_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
