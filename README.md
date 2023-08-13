@@ -780,7 +780,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Evictions in MA amid the pandemic](https://marinav13.github.io/My2ndProject/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/marinav13.github.io/My2ndProject_index.html-mobile-thumb.jpg)](screenshots/marinav13.github.io/My2ndProject_index.html-mobile-full.jpg)|[![medium](screenshots/marinav13.github.io/My2ndProject_index.html-medium-thumb.jpg)](screenshots/marinav13.github.io/My2ndProject_index.html-medium-full.jpg)|[![wide](screenshots/marinav13.github.io/My2ndProject_index.html-wide-thumb.jpg)](screenshots/marinav13.github.io/My2ndProject_index.html-wide-full.jpg)|
-|[MA Pandemic Job Loss](https://marinav13.github.io/MyProject/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/marinav13.github.io/MyProject_index.html-mobile-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-mobile-full.jpg)|[![medium](screenshots/marinav13.github.io/MyProject_index.html-medium-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-medium-full.jpg)|[![wide](screenshots/marinav13.github.io/MyProject_index.html-wide-thumb.jpg)](screenshots/marinav13.github.io/MyProject_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://marinav13.github.io/MyProject/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -796,9 +796,10 @@ No issues found! 🎉
 
 **https://marinav13.github.io/MyProject/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `mass1.png` missing `alt` tag
+* **Could not access the page** - if you moved it, let me know!
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1141,7 +1142,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 72 more*
+   * *and 63 more*
 
 
 
