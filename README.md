@@ -720,7 +720,12 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Bright and` overlaps with `sun-drenched` at screen width 400
    * Text `Bright and` overlaps with `sun-drenched` at screen width 900
+   * Text `Boreum Hill` overlaps with `11217` at screen width 1300
+   * Text `Source:` overlaps with `Census Reporter` at screen width 1300
+   * Text `Prospect Heights` overlaps with `11238` at screen width 1300
+   * Text `Source:` overlaps with `Census Reporter` at screen width 1300
    * Text `Bright and` overlaps with `sun-drenched` at screen width 1300
+   * *and 3 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Helvetica Neue"` font not found, used in 93 text objects. Example: _As we stand here at the pinnacle of our journey, , the reality becomes clear—sunlight, a universal source of life, , has a cost in our urban landscape. _
     * `Impact` font not found, used in 16 text objects. Example: _Key:, Key:, Key:_
@@ -1136,7 +1141,7 @@ No issues found! 🎉
    * Text `Northeastern states` overlaps with `Jharkhand` at screen width 400
    * Text `25` overlaps with `Bihar` at screen width 400
    * Text `10` overlaps with `11` at screen width 400
-   * *and 63 more*
+   * *and 72 more*
 
 
 
