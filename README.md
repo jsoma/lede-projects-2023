@@ -50,7 +50,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#mymo5303githubio"><img src="screenshots/mymo5303.github.io/project01-suicide_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mymo5303.github.io</a></td>
 <td><a href="#nam-sgn327githubio"><img src="screenshots/nam-sgn327.github.io/fanfiction_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nam-sgn327.github.io</a></td>
 <td><a href="#namu-sampathgithubio"><img src="screenshots/namu-sampath.github.io/project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>namu-sampath.github.io</a></td>
-<td><a href="#nguyenkimca"><img src="screenshots/nguyenkim.ca/data-viz_gilmores_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>nguyenkim.ca</a></td>
+<td>nguyenkim.ca request failed</td>
 </tr><tr>
 <td><a href="#niallsimoniangithubio"><img src="screenshots/niallsimonian.github.io/Project-01_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>niallsimonian.github.io</a></td>
 <td><a href="#prachivashishttgithubio"><img src="screenshots/prachivashishtt.github.io/Vashisht_Meta_Lede_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>prachivashishtt.github.io</a></td>
@@ -148,6 +148,8 @@ No issues found! 🎉
    * Text `Thin air` overlaps with `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` at screen width 400
    * Text `The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing` overlaps with `points San Ysidro and Calexico have the highest air pollution levels in the region.` at screen width 400
    * Text `Calexico` overlaps with `Lorem ipsum` at screen width 400
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 900
+   * Text `CalEnviroScreen 4.0` overlaps with `Source:` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Knowledge, "Source Sans Pro", Arial, sans-serif` font not found, used in 17 text objects. Example: _Thin air, The closer to California's U.S.-Mexico border, the worse the air quality. Popular crossing, points San Ysidro and Calexico have the highest air pollution levels in the region._
 
@@ -217,7 +219,6 @@ No issues found! 🎉
 **https://ann2128.github.io/nyc_community_gardens**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -523,7 +524,7 @@ No issues found! 🎉
 
 **https://hannaakang.github.io/riot-deaths/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1025,19 +1026,23 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Class, Sensibilities, and the Gilmore Girls Literary Canon](https://nguyenkim.ca/data-viz/gilmores)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-mobile-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-mobile-full.jpg)|[![medium](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-medium-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-medium-full.jpg)|[![wide](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-wide-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_gilmores_index.html-wide-full.jpg)|
-|[Westminster's Top Dogs](https://nguyenkim.ca/data-viz/westminster)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/nguyenkim.ca/data-viz_westminster_index.html-mobile-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_westminster_index.html-mobile-full.jpg)|[![medium](screenshots/nguyenkim.ca/data-viz_westminster_index.html-medium-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_westminster_index.html-medium-full.jpg)|[![wide](screenshots/nguyenkim.ca/data-viz_westminster_index.html-wide-thumb.jpg)](screenshots/nguyenkim.ca/data-viz_westminster_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://nguyenkim.ca/data-viz/gilmores)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Site not found · GitHub Pages](https://nguyenkim.ca/data-viz/westminster)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://nguyenkim.ca/data-viz/gilmores**
 
-No issues found! 🎉
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://nguyenkim.ca/data-viz/westminster**
 
-No issues found! 🎉
+* **Could not access the page** - if you moved it, let me know!
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1183,7 +1188,7 @@ No issues found! 🎉
 
 **https://retrospatial.github.io/buffy-podcasts/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://retrospatial.github.io/tumblr-fandometrics/**
 
